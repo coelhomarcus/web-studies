@@ -1,0 +1,19 @@
+body{
+    background-color: #13293d;
+    font-family: sans-serif;
+    color: white;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;    
+    a {
+        color: #3884cc;
+        font-size: 2rem; 
+        border-radius: 20px;
+        margin: 10px;
+    }
+}
